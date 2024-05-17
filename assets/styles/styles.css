@@ -1,0 +1,23 @@
+.card-img-top {
+    background-color: gray;
+    height: 260px;
+}
+
+#welcome {
+    margin-top: 0.5rem;
+}
+
+#welcome-body {
+    padding: 3rem;
+}
+
+#welcome-text {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#footer {
+    width: 100%;
+    margin-top: 2rem;
+    padding: 0;
+}
